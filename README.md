@@ -26,10 +26,11 @@
   <details>
     <summary>Click to see a random joke</summary>
     <div align="center">
-      ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+      <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card" />
     </div>
   </details>
 
   <br clear="both">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/maurodesouza/maurodesouza/raw/output/snake.svg" alt="Snake animation" />
+
 </div>
